@@ -15,5 +15,6 @@
 ### (신) 풀이
 - 0x02 기초 코드 작성 요령 II
 - 0x03 배열
+- 0x04 연결 리스트
 
 ###### *reference: BaaarkingDog*
