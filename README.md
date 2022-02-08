@@ -17,5 +17,6 @@
 - 0x03 배열
 - 0x04 연결 리스트
 - 0x05 스택
+- 0x06 큐
 
 ###### *reference: BaaarkingDog*
